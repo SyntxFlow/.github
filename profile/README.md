@@ -1,4 +1,4 @@
-![Alt text](./Syntx-banner.png)
+![Alt text](./Syntx.jpg)
 
 **Code with Flow, Build with Purpose**  
 
