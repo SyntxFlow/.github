@@ -1,11 +1,11 @@
-![Alt text](./Syntx.jpg)
+![Alt text](./axion.jpg)
 
 **Code with Flow, Build with Purpose**  
 
 ---
 
 ## Tentang Kami
-SyntxFlow adalah sebuah organisasi kecil yang lahir dari hobi dan kecintaan kami terhadap dunia software development.  
+Axion adalah sebuah organisasi kecil yang lahir dari hobi dan kecintaan kami terhadap dunia software development.  
 Kami membangun proyek-proyek open source berupa **website, aplikasi, dan tools sederhana** dengan tujuan untuk belajar, bereksperimen, serta berbagi dengan komunitas developer.
 
 ---
@@ -31,4 +31,4 @@ Kami membuat semuanya murni karena **hobi, belajar, dan kesenangan dalam berkary
 ---
 
 ## Tetap Terhubung
--  GitHub: [SyntxFlow](https://github.com/SyntxFlow)
+-  GitHub: [Axion](https://github.com/Axion)
